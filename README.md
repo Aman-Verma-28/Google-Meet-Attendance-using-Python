@@ -13,10 +13,25 @@ Install this package by typing the following code in terminal :
 pip install selenium
 ~~~
 
-## Openpyxl
+### Openpyxl
 Install this package by typing the following code in terminal :
 ~~~
 pip install openpyxl
 ~~~
 
 Create an excel workbook named `Google_Attendance`. Add a sheet named `Attendance Sheet`. Create the sheet in the following manner :
+
+![Screenshot (85)](https://user-images.githubusercontent.com/67066785/93112623-daf24980-f6d5-11ea-8a79-ac599fc64b9b.png)
+
+Save the sheet and place this sheet in the same directory as of the code.
+## Running the code
+The IDE in which you are running the code, will ask you for your gmail id, password and GoogleMeet link. Copy and paste the link from the meeting. 
+And that's it. You can take attendance without much effort.
+
+**NOTE**: 
+> Keep the excel file closed while running the code.
+
+> If chrome takes time to redirect and open new link then adjust the value of `sleep()` functions accordingly.
+
+# Developers
+Sahil Ahuja
