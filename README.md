@@ -5,7 +5,7 @@ This program reads the name of the participants and marks the attendance of peop
 Follow the following instructions to run the code in your local machine.
 
 ### Chromedriver
-Install the web driver using [Google ChromeDriver](https://chromedriver.chromium.org/) link. Unzip the file, copy the path of the folder and paste it in line 32 of the code.
+Install the web driver using [Google ChromeDriver](https://chromedriver.chromium.org/) link. Unzip the file, copy the path of the folder and paste it in line 32 of the code. An example is given in the code itself.
 
 ### Selenium
 Install this package by typing the following code in terminal :
